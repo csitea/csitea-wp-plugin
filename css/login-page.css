@@ -1,0 +1,31 @@
+body.login {
+    background-color: #ffffff;
+}
+#login form#loginform {
+    background-color: #f9f9f9;
+    border-radius: 18px;
+}
+#login form .submit .button  {
+    height: auto;
+    background-color: #f49045;
+    border-width: 1px;
+    border-color: #f49045;
+    text-shadow: 0 -1px 1px #dd7e2a, 1px 0 1px #dd7e2a, 0 1px 1px #dd7e2a, -1px 0 1px #dd7e2a;
+}
+#login form .submit .button:hover {
+    background-color: #dd7e2a;
+    border-color: #dd7e2a;
+}
+.login #login #backtoblog a:hover, .login #login #nav a:hover, .login #login h1 a:hover {
+    color: #DD7E2A;
+}
+#login input[type="text"]:focus, #login input[type="password"]:focus {
+    border-color: #DD7E2A;
+    box-shadow: 0 0 0 1px #DD7E2A;
+}
+body.login div#login h1 a {
+    background-image: url("../img/csitea-logo-105px.png");
+    width: 105px;
+    height: 105px;
+    background-size: 105px 105px;
+}
