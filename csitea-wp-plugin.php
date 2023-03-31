@@ -2,12 +2,11 @@
 /***
  * Plugin Name: CSITEA Wordpress Plugin
  * Version: 1.0.0
- * Plugin URI: https://github.com/csitea/csitea-plugin
- * Description: Adds on Wordpress with CSITEA specific features and integrations.
+ * Plugin URI: https://github.com/csitea/csitea-wp-plugin
+ * Description: Adds on Wordpress with CSITEA specific features
  * Author: CSITEA Oy Ab
  * Author URI: http://csitea.net/
  * Text Domain: csitea
- * Domain Path: /lang/
  * Licence: GPL v2 or later
  */
 
